@@ -1,0 +1,24 @@
+body {
+	margin: 0;
+	padding: 15px;
+}
+
+main {
+	background: #eee;
+	border: 1px solid #ccc;
+	padding: 20px;
+	margin: 20px 0;
+}
+
+select[multiple] {
+	height: auto;
+	background: none;
+	padding: 0;
+}
+select[multiple] option:checked {
+	background-color: #aaa;
+}
+
+.car-input {
+	width: 60%;
+}

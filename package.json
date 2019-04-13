@@ -1,0 +1,26 @@
+{
+  "name": "formgroup-component-for-binding-an-object-of-values-to-form-elements",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "lodash.map": "4.6.0",
+    "lodash.size": "4.2.0",
+    "react": "16.8.6",
+    "react-dom": "16.8.6"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    "chrome 67",
+    "firefox 55"
+  ],
+  "keywords": [],
+  "description": "Use cases include binding to a list of checkboxes (or even a whole form)"
+}
